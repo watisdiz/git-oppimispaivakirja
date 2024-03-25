@@ -7,4 +7,7 @@ Tämä repository sisältää "Oppimispäiväkirjoja", joka on osa Git-versionha
 Tässä repositoriossa dokumentoidaan oppimisprosessiani Git-versionhallinnan parissa. Se sisältää yksityiskohtaisia merkintöjä ja esimerkkejä käyttämistäni Git-komennoista.
 
 ## Sisältö
-- `paivakirja1.md` `paivakirja2.md` `paivakirja3.md`: Markdown-tiedosdot, jossa löytyy yksityiskohtaiset merkinnät oppimiskokemuksistani.
+Markdown-tiedosdot, jossa löytyy yksityiskohtaiset merkinnät oppimiskokemuksistani.
+- [Päiväkirja 1](paivakirja1.md)
+- [Päiväkirja 2](paivakirja2.md)
+- [Päiväkirja 3](paivakirja3.md)
